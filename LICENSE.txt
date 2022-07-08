@@ -1,4 +1,4 @@
-Copyright (c) 2022 by author
+Copyright (c) 2022 by Justin Warwick (justin.warwick@gmail.com)
 
 The Universal Permissive License (UPL), Version 1.0
 

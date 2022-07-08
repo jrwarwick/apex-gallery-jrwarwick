@@ -15,7 +15,7 @@
     }
 
     function loadAPEXVersions() {
-        const apiURL = "https://api.github.com/repos/oracle/apex/branches",
+        const apiURL = "https://api.github.com/repos/jrwarwick/apex-gallery-jrwarwick/branches",
               versionURL = getURLParamValue( "version" ),
               excludeBranches = ["main"];
 
@@ -46,7 +46,7 @@
 
     function loadContent() {
         const apexVersion = apexVersionElement.value,
-              manifestURL = "https://raw.githubusercontent.com/oracle/apex/" + apexVersion + "/docs/json/manifest.json";
+              manifestURL = "https://raw.githubusercontent.com/jrwarwick/apex-gallery-jrwarwick/" + apexVersion + "/docs/json/manifest.json";
 
         const applyTemplate = function ( pData ) {
             const data = pData || {};
