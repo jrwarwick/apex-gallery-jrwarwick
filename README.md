@@ -32,7 +32,7 @@ Review the [Oracle APEX online documentation](https://docs.oracle.com/en/databas
 This project welcomes contributions, but on a discretionary basis. Before submitting a pull request, please [review our contribution guide](./CONTRIBUTING.md).
 
 ## License
-Copyright (c) 2022 by __AUTHOR__.
+Copyright (c) 2022 by Justin Warwick (justin.warwick@gmail.com).
 
 Released under the Universal Permissive License v1.0 as shown at
 <https://oss.oracle.com/licenses/upl/>.
